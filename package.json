@@ -1,0 +1,19 @@
+{
+  "name": "stellar",
+  "version": "1.0.0",
+  "description": "\"Blockchain Stellar\"",
+  "main": "create_account.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sdccoding/Stellar.git"
+  },
+  "author": "Souhardya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sdccoding/Stellar/issues"
+  },
+  "homepage": "https://github.com/Sdccoding/Stellar#readme"
+}
